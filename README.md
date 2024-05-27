@@ -34,4 +34,3 @@ Run the script some time before the report is set to be released. The scheduler 
 ## License
 
 This script is provided “as is”, without warranty of any kind. Use it at your own risk.
-# eia-crude-oil-inventories
